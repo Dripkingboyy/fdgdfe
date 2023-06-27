@@ -1,0 +1,6 @@
+keys = {
+[asdasd1231245654643] = true,
+[1] = true,
+[2] = true
+}
+return keys
